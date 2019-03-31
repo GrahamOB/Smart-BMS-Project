@@ -26,5 +26,5 @@ Tests performed include:
   
   Pack Under Voltage (Discharge MOSFET Switching)
   
-  
+  https://www.aliexpress.com/item/7S-24V-20A-30A-40A-60A-18650-Lithium-battery-smart-protection-board-balance-bms-pcm-W/32961106224.html?spm=a2g0s.9042311.0.0.5e6f4c4dKq4Cua
 
