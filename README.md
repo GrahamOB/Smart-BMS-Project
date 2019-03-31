@@ -31,6 +31,7 @@ Tests performed include:
   https://www.aliexpress.com/item/7S-24V-20A-30A-40A-60A-18650-Lithium-battery-smart-protection-board-balance-bms-pcm-W/32961106224.html?spm=a2g0s.9042311.0.0.5e6f4c4dKq4Cua
 
 Acknowlegements:
+
 bres55 (github) For the orginal code and doing all the heavy lifting for the UART register calls. This was a huge piece of work, and saved me many hours as all my previous designs were over the BQ76930 I2C bus.
 
 Jehu Garcia for the original concept for a PCB approach to building powerwalls. Using PCB,s may seem to some as massive overkill, but the maintenance of indiviudual cells is so easy with this approach. And it the packs look awesome when built.
