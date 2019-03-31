@@ -7,5 +7,5 @@ Components
   
   54 * 7S PCBS from the Jehu Garcia design manuafactuered at JLPCB
   
-  6  * BMS PCB's designed for the above BMS designed by me and manuafactuered at JLPCB
+  6  * BMS PCB's designed for the above BMS designed by me (Based on Justin Kenny's original 3 BMS design) and manuafactuered at JLPCB
   
