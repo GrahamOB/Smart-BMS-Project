@@ -1,6 +1,7 @@
 # Smart-BMS-Project
 Project to implement home made powerwall based on 6 battery packs each with 7S 9P configuration.
-Components
+Components:
+
   378 18650 lithium Ion cells
   
   6  * Chinese BMS models based on the Texas Instruments BQ76930 chip with a UART interface.
