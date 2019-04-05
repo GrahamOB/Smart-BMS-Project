@@ -13,7 +13,7 @@ Components:
   
 Data from the 6 BMS modules is captured to an InfluxDB store and surfaced in Grafana.
 
-Code is Arduino based C++ currently running on an ESP8266 based Wemod D1 mini Pro, but will probably be ported to ESP32 for more GPIO pins. MCU will need an external antenna connector to get the range to connect back to InfluxDB data store.
+Code is Arduino based C++ currently running on an ESP8266 based Wemos D1 mini Pro, but will probably be ported to ESP32 for more GPIO pins. MCU will need an external antenna connector to get the range to connect back to InfluxDB data store.
 
 Basic testing of the BMS module is now complete, and the board design performs to Texas Instruments BQ 76930 specification.
 Tests performed include:
